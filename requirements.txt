@@ -1,0 +1,11 @@
+amqp==1.4.9
+anyjson==0.3.3
+billiard==3.3.0.23
+celery==3.1.23
+Django==1.10
+future==0.15.2
+futures==3.0.5
+kombu==3.0.35
+python-whois==0.6.3
+pytz==2016.6.1
+wheel==0.24.0
